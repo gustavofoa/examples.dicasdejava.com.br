@@ -6,10 +6,10 @@ import java.util.List;
 public class ArrayParaList {
 
     public static void main(String[] args) {
-	    String[] nomes = new String[]{"Gustavo", "Maria", "José", "João", "Ana"};
+    	String[] nomes = new String[]{"Gustavo", "Maria", "José", "João", "Ana"};
 
-		List listaDeNomes = Arrays.asList(nomes);
+    	List listaDeNomes = Arrays.asList(nomes);
 
-		System.out.println(listaDeNomes);
+    	System.out.println(listaDeNomes);
     }
 }
