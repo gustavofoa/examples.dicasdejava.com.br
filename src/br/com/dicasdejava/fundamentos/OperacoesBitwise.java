@@ -1,4 +1,4 @@
-package br.com.dicasdejava;
+package br.com.dicasdejava.fundamentos;
 
 public class OperacoesBitwise {
 

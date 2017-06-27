@@ -1,4 +1,4 @@
-package br.com.dicasdejava;
+package br.com.dicasdejava.util;
 
 import java.util.Arrays;
 import java.util.List;
