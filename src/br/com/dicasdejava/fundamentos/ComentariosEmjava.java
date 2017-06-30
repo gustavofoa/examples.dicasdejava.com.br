@@ -34,7 +34,7 @@ public class ComentariosEmjava {
 		//Como este exemplo:
 		//Str/*comentario*/ing texto2 = "teste";
 		//Ou neste outro exemplo:
-		//String tex/*comentario*/to = "teste;
+		//String tex/*comentario*/to = "teste";
 
 		/*
 		 * Bloco de comentário:
