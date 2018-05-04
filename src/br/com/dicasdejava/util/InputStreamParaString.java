@@ -6,7 +6,7 @@ import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 
-public class InputStreamToString {
+public class InputStreamParaString {
 
 	public static void main(String[] args) throws IOException {
 
