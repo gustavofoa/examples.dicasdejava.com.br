@@ -5,6 +5,12 @@ public class CsvPessoa {
     private Integer idade;
     private String email;
 
+    public CsvPessoa(String nome, Integer idade, String email) {
+        this.nome = nome;
+        this.idade = idade;
+        this.email = email;
+    }
+
     public String getNome() {
         return nome;
     }
