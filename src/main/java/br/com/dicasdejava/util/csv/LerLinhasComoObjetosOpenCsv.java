@@ -1,6 +1,5 @@
-package br.com.dicasdejava.util;
+package br.com.dicasdejava.util.csv;
 
-import br.com.dicasdejava.model.CsvPessoa;
 import com.opencsv.bean.CsvToBean;
 import com.opencsv.bean.CsvToBeanBuilder;
 

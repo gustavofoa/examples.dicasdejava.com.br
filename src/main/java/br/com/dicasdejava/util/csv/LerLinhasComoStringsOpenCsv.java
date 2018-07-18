@@ -1,4 +1,4 @@
-package br.com.dicasdejava.util;
+package br.com.dicasdejava.util.csv;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVReaderBuilder;

@@ -1,4 +1,4 @@
-package br.com.dicasdejava.model;
+package br.com.dicasdejava.util.csv;
 
 public class CsvPessoa {
     private String nome;
